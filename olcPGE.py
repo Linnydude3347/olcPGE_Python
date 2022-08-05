@@ -9,8 +9,6 @@ Original Implementation by Javidx9: https://github.com/OneLoneCoder/olcPixelGame
 
 from enum import Enum, auto
 from functools import singledispatchmethod
-from re import A
-from tkinter import N
 from typing import List, TypeVar, Generic, Dict, Callable, Union
 from math import floor, ceil, sqrt, cos, sin, atan2
 from os.path import exists, getsize
